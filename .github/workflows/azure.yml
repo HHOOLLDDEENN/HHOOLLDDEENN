@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AtwoodDEV/Scripts/main/CCv2Hub-Fly.lua?token=AV35DFTZ4LQPYVH57ZGRNT3BMPXLS", true))()
